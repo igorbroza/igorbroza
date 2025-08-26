@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋 Sou o Professor Igor formado em ADS e Cursando a Pos Graduação em Metodologias Ágeis na UTFPR</h2>
+<h2 align="left">Ola 👋 Sou o Professor Igor formado em ADS e Cursando a Pos Graduação em Metodologias Ágeis na UFPR</h2>
 
 ###
 
